@@ -1,7 +1,5 @@
 # VIT CommSuite - Socket Programming in C
 
-VIT CommSuite is a simple client-server communication suite implemented in C, using socket programming. This project demonstrates the use of multithreading and file handling for creating a basic chat server where multiple clients can connect and communicate with each other.
-
 ## Features
 
 - Multithreading: The server can handle multiple client connections concurrently using threads, ensuring efficient communication.
