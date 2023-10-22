@@ -107,7 +107,7 @@ exit          # To exit the client
 
 **Student Client Terminal:**
 
-This client can communicate with the server and, if an admin teacher is present, receive files using the `send` command. It can also use the `exit` command to exit the client.
+This client can communicate with the server and, send files using the `send` command to the admin teacher. It can also use the `exit` command to exit the client.
 
 ```shell
 # Compile and run the student client
@@ -115,7 +115,7 @@ gcc client.c -o client
 ./client [server_ip] [port_number]
 
 # After connecting, you can use the following commands:
-send    # To request files from an admin teacher (if available)
+send    # To send files to an admin teacher only (if available)
 exit    # To exit the client
 ```
 
