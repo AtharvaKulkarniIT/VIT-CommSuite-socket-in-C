@@ -73,7 +73,7 @@ Two sample files are provided in the "SampleFiles" folder within this repository
 
 - `notes.txt`: A text file with sample content.
 - `program.cpp`: A sample cpp file.
-- `output.jpg`: A sample output image file.
+- `output.png`: A sample output image file.
 
 ## Usage
 
@@ -122,6 +122,34 @@ exit    # To exit the client
 By opening multiple teacher and student client terminals, you can simulate a classroom environment for testing and interaction.
 
 Please note that you should replace `[server_ip]` and `[port_number]` with the IP address and port where your server is running. Make sure the server is up and running before you start the clients.
+
+## Easiest compilation and running steps
+
+Follow these simplified steps to compile and run the VIT CommSuite project:
+
+1. Compile the server code:
+   ```shell
+   gcc server.c -o server
+   ```
+
+2. Run the server:
+   ```shell
+   ./server
+   ```
+
+3. Compile the client code:
+   ```shell
+   gcc client.c -o client
+   ```
+
+4. Run the client:
+   ```shell
+   ./client
+   ```
+
+By following these steps, you can quickly compile and run the server and client applications without specifying port numbers or IP addresses. The server will listen on the default port 8080, and the client will connect to the local IP address. You can customize these settings by providing command-line arguments as mentioned in the detailed README.
+
+Make sure to open multiple client terminals to simulate a classroom environment for testing and interaction.
 
 ## Contributions
 
