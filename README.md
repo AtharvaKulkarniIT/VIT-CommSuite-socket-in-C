@@ -1,4 +1,7 @@
 # VIT CommSuite - Socket Programming in C
+<a href="https://github.com/AtharvaKulkarniIT/VIT-CommSuite-in-C"><img src="https://sloc.xyz/github/AtharvaKulkarniIT/VIT-CommSuite-in-C" alt="LOC"/></a>
+<a href="https://github.com/AtharvaKulkarniIT/VIT-CommSuite-in-C"><img src="https://visitor-badge.laobi.icu/badge?page_id=AtharvaKulkarniIT.VIT-CommSuite-in-C" alt="Visitors"/></a>
+<a href="https://github.com/AtharvaKulkarniIT/VIT-CommSuite-in-C/stargazers"><img src="https://img.shields.io/github/stars/AtharvaKulkarniIT/VIT-CommSuite-in-C" alt="Stars Badge"/></a>
 
 ## Features
 
